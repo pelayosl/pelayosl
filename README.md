@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Pelayo Sierra Lobo, I am a fourth-year BSc Software Engineering student at the University of Oviedo.
+My name is Pelayo Sierra Lobo, I am a Software Engineer currently specialising in AI through an MSc in Applied Artificial Intelligence @ Comillas (ICAI).
 
-I have worked on several projects throughout my undergraduate studies. Most of them are private, although I plan to release some of them as part of my personal portfolio during the following months.
+I have worked on several projects throughout my undergraduate studies, here's a small sample:
 
 ### Relevant projects
 💬 **WiChatEN2B**
@@ -24,8 +24,10 @@ analysis, parsing, semantic analysis and code generation
 * It is a research-oriented practicum following scientific conventions.
 * Check it out here: [Optimising search](https://github.com/pelayosl/heuristics-study)
 
-### 📅 COMING SOON
-I am working towards releasing some other personal projects here as part of my learning experience as a Software Developer, specially in the fields of information retrieval and artificial intelligence.
+🔣 **ActEU Narrative Tracker**
+* Fullstack research tool for the EU-funded ActEU project
+* Discovers custom subtopics beyond a fixed taxonomy over a ten-country, multilingual, multi-platform corpus, combining BERTopic topic modelling with LLM-assisted refinement, a trainable classifier, PageRank-based entity extraction and a time-series visualisation dashboard
+* I am currently working on a version I can release publicly
 <!--
 **pelayosl/pelayosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
