@@ -4,6 +4,11 @@ My name is Pelayo Sierra Lobo, I am a Software Engineer currently specialising i
 I have worked on several projects throughout my undergraduate studies, here's a small sample:
 
 ### Relevant projects
+🔣 **ActEU Narrative Tracker**
+* Fullstack research tool for the EU-funded ActEU project
+* Discovers custom subtopics beyond a fixed taxonomy over a ten-country, multilingual, multi-platform corpus, combining BERTopic topic modelling with LLM-assisted refinement, a trainable classifier, PageRank-based entity extraction and a time-series visualisation dashboard
+* Check it out here: [ActEU Narrative Tracker (public version)](https://github.com/pelayosl/ActEU-Narrative-Tracker-public)
+
 💬 **WiChatEN2B**
 * Full-stack quiz web application with WikiData integration and an LLM chatbot, developed collaboratively
 following DevOps practices and CI/CD pipelines. It is no longer deployed, but code and contributions remain public.
@@ -23,11 +28,6 @@ analysis, parsing, semantic analysis and code generation
 * Practicum developed for the Intelligent Systems course.
 * It is a research-oriented practicum following scientific conventions.
 * Check it out here: [Optimising search](https://github.com/pelayosl/heuristics-study)
-
-🔣 **ActEU Narrative Tracker**
-* Fullstack research tool for the EU-funded ActEU project
-* Discovers custom subtopics beyond a fixed taxonomy over a ten-country, multilingual, multi-platform corpus, combining BERTopic topic modelling with LLM-assisted refinement, a trainable classifier, PageRank-based entity extraction and a time-series visualisation dashboard
-* I am currently working on a version I can release publicly
 <!--
 **pelayosl/pelayosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
