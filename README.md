@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Pelayo Sierra Lobo, I am a Software Engineer currently specialising in AI through an MSc in Applied Artificial Intelligence @ Comillas (ICAI).
 
-I have worked on several projects throughout my undergraduate studies, here's a small sample:
+I have worked on several projects throughout my studies, here's a small sample:
 
 ### Relevant projects
 🔣 **ActEU Narrative Tracker**
@@ -28,6 +28,8 @@ analysis, parsing, semantic analysis and code generation
 * Practicum developed for the Intelligent Systems course.
 * It is a research-oriented practicum following scientific conventions.
 * Check it out here: [Optimising search](https://github.com/pelayosl/heuristics-study)
+
+I am currently working on other projects, such as a tool for forecasting Spain's electric demand using XGBoost, or a videogame community death predictor using survival analysis. Soon, I'll make those projects publicly available.
 <!--
 **pelayosl/pelayosl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
